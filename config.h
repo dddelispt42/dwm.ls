@@ -1,8 +1,10 @@
 /* See LICENSE file for copyright and license details. */
 
 /* Constants */
-#define TERMINAL "st"
-#define TERMCLASS "St"
+/*#define TERMINAL "st"*/
+/*#define TERMCLASS "St"*/
+#define TERMINAL "wezterm"
+#define TERMCLASS "org.wezfurlong.wezterm"
 
 /* appearance */
 static const unsigned int borderpx  = 4;        /* border pixel of windows */
